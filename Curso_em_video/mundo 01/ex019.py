@@ -5,7 +5,7 @@ import random
 nomes =[]
 
 for i in range(1, 4 + 1):
-    nome = input(f'Nome do {i}° aluno: ')
+    nome = input(f'Nome do {i}º aluno: ')
     nomes.append(nome)
     print(nomes)
     sorteado = random.choice(nomes)
