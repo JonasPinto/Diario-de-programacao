@@ -12,4 +12,4 @@ if n > 0:
         if n % i == 0:
             print(i)
 else:
-    print("Por favor, digite um número positivo.")
+    print("Por favor, digite um número positivo ")
